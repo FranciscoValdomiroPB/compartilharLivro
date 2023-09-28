@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">compartilhaLivro</string>
+    <string name="activity_cadastro_livro_titulo">Titulo</string>
+    <string name="activity_cadastro_livro_autor">Autor</string>
+    <string name="activity_cadastro_livro_editora">Editora</string>
+    <string name="activity_cadastro_livro_ano_de_publicacao">Ano de Publicaçao</string>
+    <string name="activity_cadastro_livro_genero">Gênero</string>
+    <string-array name="activity_cadastro_livro_genero_lista">
+        <item>Manga</item>
+        <item>Hentai</item>
+    </string-array>
+    <string name="activity_cadastro_livro_idioma">Idioma</string>
+    <string name="activity_cadastro_livro_pagina">Páginas</string>
+    <string name="activity_cadastro_livro_imagem">Imagem</string>
+    <string name="activity_cadastro_livro_salvar">Salvar</string>
+
+
+</resources>
